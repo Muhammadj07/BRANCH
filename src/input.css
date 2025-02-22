@@ -4,3 +4,7 @@
 .all{
     background-image: url(/bg11.png);
 }
+.all3{
+    background-image: url(/bg.png);
+    background-repeat: no-repeat;
+}
