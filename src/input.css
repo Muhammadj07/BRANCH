@@ -1,3 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.all{
+    background-image: url(/bg11.png);
+}
